@@ -1,8 +1,11 @@
+import React from 'react';
+import GameManager from './game/GameManager';
+
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-      </header>
+      <h1>Slime Kingdom</h1>
+      <GameManager />
     </div>
   );
 }
