@@ -1,6 +1,7 @@
 # Node (Frontend)
 /node_modules/
 /build/
+/build
 /.pnp
 .pnp.js
 
